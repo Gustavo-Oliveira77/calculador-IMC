@@ -1,7 +1,7 @@
 # calculador-IMC
 Esse é um projeto simples,mas muito interresante para calcularmos o Índice de Massa Corporal..
 
-link de acesso a aplicação :https://github.com/Gustavo-Oliveira77/calculador-IMC/
+link de acesso a aplicação :https://gustavo-oliveira77.github.io/calculador-IMC/
 
 //mais um projeto por aqui.. os estudos não param!!!! //prometo que em projetos mais complexos e interessantes organizo melhor minha README.md
 
